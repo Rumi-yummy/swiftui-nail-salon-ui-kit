@@ -1,4 +1,4 @@
-# Lacquer – Nail Salon Booking App (SwiftUI UI Template)
+# Lacquer – Nail Salon Booking App (SwiftUI UI Source Code)
 
 <img src="poster-01-first-tap-to-fresh-nails.png" width="100%">
 
@@ -22,7 +22,7 @@ A complete **SwiftUI** UI template for a nail salon / beauty booking app. iOS 17
 - Full documentation: quick start, customization, screen overview, license notes
 
 ## Please note
-This is a **UI template only**. There is no real backend, login, database or payments. Availability, bookings and rewards are demo content stored in memory – plug in your own backend. Requires Xcode 16+ and iOS 17+.
+There is no real backend, login, database or payments. Availability, bookings and rewards are demo content stored in memory – plug in your own backend. Requires Xcode 16+ and iOS 17+.
 
 
 **Get the source code: [https://qinqin4.gumroad.com/l/kddqwz]**
