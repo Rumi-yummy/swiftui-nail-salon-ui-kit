@@ -1,13 +1,5 @@
 # Lacquer – Nail Salon Booking App (SwiftUI UI Template)
 
-<img src="mockup-01.png" width="100%">
-
-<img src="mockup-02.png" width="100%">
-
-<img src="mockup-03.png" width="100%">
-
-<img src="mockup-04.png" width="100%">
-
 <img src="poster-01-first-tap-to-fresh-nails.png" width="100%">
 
 <img src="poster-02-find-your-perfect-set.png" width="100%">
